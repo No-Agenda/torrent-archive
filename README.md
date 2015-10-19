@@ -520,8 +520,10 @@ NA-500-2013-03-31-Final.mp3
 ```
 
 Includes .nfo
+
 Album art embedded in MP3
 
 ### Sources
 [No Agenda](http://noagendashow.com/)
+
 [iTunes Store](https://itunes.apple.com/us/podcast/no-agenda/id269169796?ls=1&mt=8)
