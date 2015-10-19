@@ -1,8 +1,5 @@
 # No Agenda Show 001-500 Archive
 
-## Tags
-no agenda show, podcast, politics, crackpot, buzz kill, news analysis, mp3, government, itm, shut up slave, 33,
-
 ## Information
 ```
 Podcast ................. No Agenda
@@ -12,7 +9,7 @@ Codec ................... MP3
 Released ................ 2013-07-15
 ```
 
-Description:
+## Description
 Adam Curry and John C. Dvorak bring you a free-flowing conversation that deconstructs recent news and media memes. Much of the appeal of the show comes from the odd couple relationship between the hosts. Adam Curry usually suggests theories about the news or world events, whereas John C. Dvorak has a more reasoned demeanor, and as acting as the "Straight man" to Curry.
 
 The show has no advertisers, instead relying on its listeners to voluntarily donate. http://dvorak.org/na
@@ -524,6 +521,9 @@ NA-500-2013-03-31-Final.mp3
 Includes .nfo
 
 Album art embedded in MP3
+
+## Tags
+no agenda show, podcast, politics, crackpot, buzz kill, news analysis, mp3, government, itm, shut up slave, 33,
 
 ### Sources
 [No Agenda](http://noagendashow.com/)
