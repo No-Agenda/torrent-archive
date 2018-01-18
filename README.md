@@ -1,5 +1,7 @@
 # No Agenda Show 1-1000 Archive
 
+# Download [Torrent](cdn.ipfu.org/p/na/no_agenda/no_agenda-1000-archive.torrent) - [Magnet]()
+
 ## Information
 ```
 Podcast ................. No Agenda
