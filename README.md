@@ -1026,6 +1026,7 @@ NA-996-2018-01-04-Final.mp3
 NA-997-2018-01-07-Final.mp3
 NA-998-2018-01-11-Final.mp3
 NA-999-2018-01-14-Final.mp3
+NA-1000-2018-01-18-Final.mp3
 ```
 
 Includes .nfo
