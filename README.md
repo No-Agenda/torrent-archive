@@ -1,6 +1,6 @@
 # No Agenda Show 1-1000 Archive
 
-### [Torrent Download](http://cdn.ipfu.org/p/na/no_agenda/no_agenda-1000-archive.torrent)
+### [Torrent](https://github.com/No-Agenda/torrent-archive/releases/download/2.0/no_agenda-1000-archive.torrent) - [Torrent Mirror](http://cdn.ipfu.org/p/na/no_agenda/no_agenda-1000-archive.torrent)
 
 ### Torrent Magnet Link:
 ```
