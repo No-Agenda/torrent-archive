@@ -13,6 +13,7 @@ Podcast ................. No Agenda
 Publisher ............... noagendashow.com
 Quality ................. 96Kbps
 Codec ................... MP3
+Size .................... 108.76 GB
 Released ................ 2018-01-18
 ```
 
