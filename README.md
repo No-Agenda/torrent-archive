@@ -1,11 +1,17 @@
 # No Agenda Show 1-1000 Archive
 
+## Dowloads
+The torrent now has a **ultra fast S3 webseed** and a _couple_ of dedicated seed boxes.
 ### [Torrent](https://github.com/No-Agenda/torrent-archive/releases/download/2.0/no_agenda-1000-archive.torrent) - [Torrent Mirror](http://cdn.ipfu.org/p/na/no_agenda/no_agenda-1000-archive.torrent)
 
 ### Torrent Magnet Link:
 ```
 magnet:?xt=urn:btih:3f3442bcd73e0b05fec4af5c53667d79056a1c6e&dn=no%5Fagenda&tr=http%3A%2F%2Ftracker.amazonaws.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=http%3A%2F%2Ftracker.420yolo.co%3A6969&tr=http%3A%2F%2Ftracker.420yolo.co%3A1337&tr=http%3A%2F%2Ftracker.420yolo.co%3A80&ws=http%3A%2F%2Fcdn.ipfu.org%2Fp%2Fna%2F&ws=http%3A%2F%2Fna-cdn.420yolo.co%2Fp%2Fna%2F&ws=http%3A%2F%2Frubicon.curry.com%2Fp%2Fna%2F&ws=http%3A%2F%2Fvictor.curry.com%2Fp%2Fna%2F)
 ```
+
+## Contribute
+
+**We need more contributors to GitHub, [request an invite](https://goo.gl/forms/CChrKvxnJEHPBiV73).** If you downloaded this `108 GB` torrent _you better fucking seed it_. @reelsense is paying for the Amazon S3 webseed to boost the speeds and a dedicated seed box.
 
 ## Information
 ```
