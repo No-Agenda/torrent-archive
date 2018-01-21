@@ -13,6 +13,8 @@ magnet:?xt=urn:btih:3f3442bcd73e0b05fec4af5c53667d79056a1c6e&dn=no%5Fagenda&tr=h
 
 **We need more contributors to GitHub, [request an invite](https://goo.gl/forms/CChrKvxnJEHPBiV73).** If you downloaded this `108 GB` torrent _you better fucking seed it_. @reelsense is paying for the Amazon S3 webseed to boost the speeds and a dedicated seed box.
 
+![](.assets/torrent-seeds.png)
+
 ## Information
 ```
 Podcast ................. No Agenda
