@@ -2,7 +2,7 @@
 
 ## Dowloads
 The torrent now has a **ultra fast S3 webseed** and a _couple_ of dedicated seed boxes.
-### [Torrent](https://github.com/No-Agenda/torrent-archive/releases/download/2.0/no_agenda-1000-archive.torrent) - [Torrent Mirror](http://cdn.ipfu.org/p/na/no_agenda/no_agenda-1000-archive.torrent)
+### 💾 [Torrent](https://github.com/No-Agenda/torrent-archive/releases/download/2.0/no_agenda-1000-archive.torrent) - [Torrent Mirror](http://cdn.ipfu.org/p/na/no_agenda/no_agenda-1000-archive.torrent)
 
 ### Torrent Magnet Link:
 ```
